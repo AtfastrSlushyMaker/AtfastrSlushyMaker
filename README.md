@@ -1,10 +1,6 @@
 <h1 align="center">Hi there 👋, I'm <span style="color:#58a6ff">Malek Bsaissa</span></h1>
 <h3 align="center">💻 Computer Science Student</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&lines=Passionate+about+coding;Lover+of+clean+code+and+UIs;Always+learning+new+tech;Game+dev+as+a+hobby+🎮" />
-</p>
-
 ---
 
 ## 🧠 About Me
