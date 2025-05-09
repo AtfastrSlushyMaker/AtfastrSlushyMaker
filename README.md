@@ -1,59 +1,58 @@
-# 👋 Hi, I'm Malek Bsaissa
+<h1 align="center">Hi there 👋, I'm <span style="color:#58a6ff">Malek Bsaissa</span></h1>
+<h3 align="center">💻 Computer Science Student</h3>
 
-🎓 Computer Science student from Tunisia  
-💻 Passionate about software development, especially web & mobile applications  
-🌱 Currently learning: Symfony, Firebase, FlutterFlow  
-📫 Contact me: malekbsaissa@gmail.com
-
----
-
-## 🚀 Projects
-
-### 🎮 Erupted Island: A Fight for Justice
-Game developed in C using SDL. I focused on enemy behavior and AI.  
-🔗 [GitHub Repo](https://github.com/AtfastrSlushyMaker/SDL_Game)
-
-### 🌐 RecoveryButterfly
-Fundraising website using HTML, CSS, JavaScript, and PHP with PDO.  
-🔗 [GitHub Repo](https://github.com/AtfastrSlushyMaker/Web-Project)
-
-### 🛡️ Ripple
-Qt/C++ app for insurance services with Arduino accident detection.  
-🔗 [GitHub Repo](https://github.com/AtfastrSlushyMaker/Qt-Project)
-
-### 🚲 WamiaGo
-JavaFX desktop app for transportation (carpooling, e-bike rentals).  
-🔗 [GitHub Repo](https://github.com/AtfastrSlushyMaker/WamiaGo-Desktop)
-
-### 🌍 Symphony Web Application
-Symfony-based platform for managing electric bike rentals.  
-🔗 [GitHub Repo](https://github.com/AtfastrSlushyMaker/WamiaGo-Webapp)
-
-### 🧪 Physics Engine Simulation
-JS-based engine simulating ball collisions, gravity, and friction.  
-🔗 [GitHub Repo](https://github.com/AtfastrSlushyMaker/2D-Physics-Simulation)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&lines=Passionate+about+coding;Lover+of+clean+code+and+UIs;Always+learning+new+tech;Game+dev+as+a+hobby+🎮" />
+</p>
 
 ---
 
-## 🛠️ Skills
+## 🧠 About Me
 
-- **Languages:** C/C++, Java, Python, PHP  
-- **Web:** HTML, CSS, JavaScript, Symfony  
-- **Tools & Tech:** Git, Linux, MySQL, Firebase, FlutterFlow  
-- **Soft Skills:** Problem-solving, teamwork, algorithmic thinking
+- 🌍 Based in Tunisia  
+- 🎓 Computer Science Student, expected to graduate in **2027**    
+- 📫 Reach me at: [malekbsaissa@gmail.com](mailto:malekbsaissa@gmail.com)  
+- 🧠 I love solving problems and building things that work!
+
+---
+
+## ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,html,css,js,symfony,git,linux,mysql,firebase" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Malek's GitHub stats](https://github-readme-stats.vercel.app/api?username=AtfastrSlushyMaker&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtfastrSlushyMaker&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=AtfastrSlushyMaker&theme=radical)  
-![Profile Views](https://komarev.com/ghpvc/?username=AtfastrSlushyMaker&color=blue)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AtfastrSlushyMaker&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtfastrSlushyMaker&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtfastrSlushyMaker&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
-## 🔗 Let's Connect
+## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/malek-b-8861b229b/)  
-[GitHub Profile](https://github.com/AtfastrSlushyMaker)
+<p align="center">
+  <a href="https://www.linkedin.com/in/malek-b-8861b229b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/AtfastrSlushyMaker" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AtfastrSlushyMaker&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
