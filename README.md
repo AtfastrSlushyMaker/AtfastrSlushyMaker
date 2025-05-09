@@ -22,7 +22,6 @@
 - 🚀 Passionate about building innovative solutions and clean code
 - 🔍 Open for collaboration on exciting projects
 - 📫 Reach me at: [malekbsaissa@gmail.com](mailto:malekbsaissa@gmail.com)
-- ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
 
 <br>
 
