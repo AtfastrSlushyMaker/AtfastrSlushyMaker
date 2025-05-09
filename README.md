@@ -19,7 +19,7 @@
 
 - 🌍 Based in **Tunisia** <img src="https://flagcdn.com/16x12/tn.png" width="16" height="12" alt="Tunisia flag">
 - 🎓 Computer Science Student, expected to graduate in **2027**
-- 🚀 Passionate about building innovative solutions and clean code
+- 🚀 Passionate about building innovative solutions 
 - 🔍 Open for collaboration on exciting projects
 - 📫 Reach me at: [malekbsaissa@gmail.com](mailto:malekbsaissa@gmail.com)
 
@@ -50,37 +50,6 @@
 
 <br>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Featured Projects
-
-<p align="center">
-  <a href="https://github.com/AtfastrSlushyMaker/Erupted-Island">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AtfastrSlushyMaker&repo=Erupted-Island&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/AtfastrSlushyMaker/RecoveryButtery">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AtfastrSlushyMaker&repo=RecoveryButtery&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-<p align="center">  
-  <a href="https://github.com/AtfastrSlushyMaker/Physics-Engine">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AtfastrSlushyMaker&repo=Physics-Engine&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/AtfastrSlushyMaker/WamiaGo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AtfastrSlushyMaker&repo=WamiaGo&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<br>
-
-## <img src="https://media.giphy.com/media/jSKBmKkVbvm7kNDvuK/giphy.gif" width="35"> Currently Learning
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
-
-<br>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect With Me
 
@@ -90,9 +59,6 @@
   </a>
   <a href="https://github.com/AtfastrSlushyMaker" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/YourTwitterHandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
   </a>
 </p>
 
