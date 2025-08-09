@@ -18,9 +18,9 @@
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
 - 🌍 Based in **Tunisia** <img src="https://flagcdn.com/16x12/tn.png" width="16" height="12" alt="Tunisia flag">
-- 🎓 Computer Science Student, expected to graduate in **2027**
-- 🚀 Passionate about building innovative solutions 
-- 🔍 Open for collaboration on exciting projects
+- 🎓 Computer engineering student specializing in Architecture IT & Cloud Computing, expected to graduate in **2027**
+- 🛠 Building skills in software development, systems architecture, and modern IT solutions
+- 🔍 Open to collaborating on real-world projects and internships
 - 📫 Reach me at: [malekbsaissa@gmail.com](mailto:malekbsaissa@gmail.com)
 
 <br>
