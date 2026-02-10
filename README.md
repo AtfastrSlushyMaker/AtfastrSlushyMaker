@@ -1,4 +1,10 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Malek%20Bsaissa&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
+</div>
+
+<div align="center">
+  
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding">
   
   ### ☁️ Cloud Computing & DevOps Enthusiast | 4th Year Engineering Student
   
@@ -105,6 +111,10 @@ status: "Building clouds, deploying dreams ☁️"
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Developer">
+</div>
 
 ### 🤝 Let's Connect
 
