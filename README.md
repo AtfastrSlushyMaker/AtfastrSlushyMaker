@@ -1,8 +1,8 @@
 <div align="center">
   
-  # 👋 Hi, I'm Malek Bsaissa
+  # Malek Bsaissa
   
-  ### ☁️ Cloud Computing & DevOps Enthusiast | 4th Year Engineering Student
+  ### Cloud Computing & DevOps | 4th Year Engineering Student
   
   <img src="https://komarev.com/ghpvc/?username=AtfastrSlushyMaker&label=Profile+Views&color=grey&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/github/followers/AtfastrSlushyMaker?label=Followers&style=for-the-badge&color=grey" alt="followers" />
@@ -11,37 +11,37 @@
 
 <br>
 
-## 👨‍💻 About Me
+## About Me
 
-- 🌍 Based in **Tunisia** 🇹🇳
-- 🎓 4th Year Computer Engineering Student (Arctic Section @ ESPRIT)
-- ☁️ Specializing in **Cloud Computing & Infrastructure**
-- 🚀 Expected graduation: **2027**
-- 💡 Currently building private clouds with OpenStack
-- 🔍 Open to collaborations and internships
+- Based in Tunisia 🇹🇳
+- 4th Year Computer Engineering Student (Arctic Section @ ESPRIT)
+- Specializing in Cloud Computing & Infrastructure
+- Expected graduation: 2027
+- Currently building private clouds with OpenStack
+- Open to collaborations and internships
 
 <br>
 
-## 🚀 Currently Diving Into
+## Currently Learning
 
 <table>
 <tr>
 <td width="50%">
 
-#### ☁️ **Cloud Infrastructure**
-- 🔧 Building private clouds with **OpenStack**
-- ⚡ Container orchestration with **Kubernetes**
-- 🐳 Deploying apps on self-hosted infrastructure
-- 🐧 Deep diving into **Linux** systems
+#### Cloud Infrastructure
+- Building private clouds with OpenStack
+- Container orchestration with Kubernetes
+- Deploying apps on self-hosted infrastructure
+- Deep diving into Linux systems
 
 </td>
 <td width="50%">
 
-#### 💻 **Full Stack Development**
-- 🍃 Backend magic with **Spring Boot**
-- 🅰️ Frontend wizardry with **Angular**
-- 🔗 Connecting clouds to code
-- 🛠️ DevOps culture & practices
+#### Full Stack Development
+- Backend development with Spring Boot
+- Frontend development with Angular
+- Connecting clouds to code
+- DevOps culture & practices
 
 </td>
 </tr>
@@ -49,7 +49,7 @@
 
 <br>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -84,17 +84,20 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AtfastrSlushyMaker&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=79c0ff&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtfastrSlushyMaker&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&langs_count=8" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AtfastrSlushyMaker&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&icon_color=79c0ff&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtfastrSlushyMaker&theme=dark&hide_border=true&background=0d1117&ring=79c0ff&fire=79c0ff&currStreakLabel=c9d1d9" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtfastrSlushyMaker&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtfastrSlushyMaker&theme=transparent&hide_border=true&ring=79c0ff&fire=79c0ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
 </p>
 
 <br>
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AtfastrSlushyMaker&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
@@ -102,13 +105,13 @@
 
 <br>
 
-## 📈 Activity Graph
+## Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AtfastrSlushyMaker&theme=github-compact&bg_color=0d1117&color=79c0ff&line=79c0ff&point=ffffff&hide_border=true" width="100%" alt="Activity Graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AtfastrSlushyMaker&theme=high-contrast&bg_color=0d1117&color=79c0ff&line=79c0ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph">
 
 <br>
 
-## 🤝 Connect With Me
+## Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/malek-b-8861b229b/" target="_blank">
@@ -122,12 +125,8 @@
   </a>
 </p>
 
-<div align="center">
-  <b>💬 Open to collaborations and interesting cloud/DevOps projects!</b>
-</div>
-
 <br>
 
 <div align="center">
-  <i>💻 Building clouds, deploying dreams</i>
+  <i>Open to collaborations on cloud/DevOps projects</i>
 </div>
