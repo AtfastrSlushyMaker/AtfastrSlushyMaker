@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Coding">
   
   # Malek Bsaissa
   
@@ -15,12 +15,15 @@
 
 ## 👨‍💻 About Me
 
-- Based in Tunisia 🇹🇳
-- 4th Year Computer Engineering Student (Arctic Section @ ESPRIT)
-- Specializing in Cloud Computing & Infrastructure
-- Expected graduation: 2027
-- Currently building private clouds with OpenStack
-- Open to collaborations and internships
+```yaml
+name: Malek Bsaissa
+location: Tunisia 🇹🇳
+education: 4th Year Computer Engineering (Arctic Section @ ESPRIT)
+specialization: Cloud Computing & Infrastructure
+graduation: 2027
+current_focus: Building private clouds with OpenStack
+status: Open to collaborations and internships
+```
 
 <br>
 
@@ -57,9 +60,26 @@
 <br>
 
 ## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AtfastrSlushyMaker&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtfastrSlushyMaker&layout=compact&theme=dark&langs_count=8" alt="Top Languages" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtfastrSlushyMaker&theme=dark" alt="GitHub Streak" />
 </p>
+
+<br>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AtfastrSlushyMaker&theme=darkhub&no-frame=false&margin-w=4" />
+</div>
 
 <br>
 
