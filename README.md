@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Malek%20Bsaissa&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20ML%20Enthusiast&descSize=18&descColor=58a6ff&descAlignY=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header" width="100%" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=60&lines=Building+private+clouds+with+OpenStack+%E2%98%81%EF%B8%8F;Shipping+full-stack+apps+with+Docker+%F0%9F%90%B3;Training+ML+models+for+football+analytics+%E2%9A%BD;4th+Year+Engineering+Student+%40+ESPRIT+%F0%9F%8E%93" alt="Typing SVG" /></a>
 
@@ -172,7 +172,6 @@ Real-time 2D physics with collision detection, gravity, and user interaction.
 
 ## 📊 GitHub Stats
 
-
 <br/>
 
 <div align="center">
@@ -181,14 +180,11 @@ Real-time 2D physics with collision detection, gravity, and user interaction.
 
 ---
 
-
-
 ## 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtfastrSlushyMaker&theme=github-dark&area=true&hide_border=true&custom_title=Contribution%20Timeline" width="100%" alt="Activity Graph">
 
 ---
-
 
 <div align="center">
 
