@@ -172,10 +172,6 @@ Real-time 2D physics with collision detection, gravity, and user interaction.
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AtfastrSlushyMaker&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363d&ring_color=1f6feb&icon_color=58a6ff&title_color=58a6ff" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtfastrSlushyMaker&layout=compact&theme=github_dark&langs_count=8&border_color=30363d&title_color=58a6ff" height="180" alt="Top Languages" />
-</div>
 
 <br/>
 
@@ -185,13 +181,7 @@ Real-time 2D physics with collision detection, gravity, and user interaction.
 
 ---
 
-## 🏆 Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AtfastrSlushyMaker&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</div>
-
----
 
 ## 📈 Contribution Graph
 
@@ -199,13 +189,6 @@ Real-time 2D physics with collision detection, gravity, and user interaction.
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AtfastrSlushyMaker/AtfastrSlushyMaker/output/github-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
 
 <div align="center">
 
