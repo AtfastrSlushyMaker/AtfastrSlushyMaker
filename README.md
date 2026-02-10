@@ -1,5 +1,7 @@
 <div align="center">
   
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding">
+  
   # Malek Bsaissa
   
   ### Cloud Computing & DevOps | 4th Year Engineering Student
@@ -11,7 +13,7 @@
 
 <br>
 
-## About Me
+## 👨‍💻 About Me
 
 - Based in Tunisia 🇹🇳
 - 4th Year Computer Engineering Student (Arctic Section @ ESPRIT)
@@ -22,34 +24,7 @@
 
 <br>
 
-## Currently Learning
-
-<table>
-<tr>
-<td width="50%">
-
-#### Cloud Infrastructure
-- Building private clouds with OpenStack
-- Container orchestration with Kubernetes
-- Deploying apps on self-hosted infrastructure
-- Deep diving into Linux systems
-
-</td>
-<td width="50%">
-
-#### Full Stack Development
-- Backend development with Spring Boot
-- Frontend development with Angular
-- Connecting clouds to code
-- DevOps culture & practices
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -97,7 +72,7 @@
 
 <br>
 
-## GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AtfastrSlushyMaker&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
@@ -105,13 +80,13 @@
 
 <br>
 
-## Activity Graph
+## 📈 Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtfastrSlushyMaker&theme=high-contrast&bg_color=0d1117&color=79c0ff&line=79c0ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph">
 
 <br>
 
-## Connect
+## 🤝 Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/malek-b-8861b229b/" target="_blank">
