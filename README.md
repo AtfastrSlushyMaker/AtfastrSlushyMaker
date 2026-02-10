@@ -1,73 +1,145 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Malek+Bsaissa;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-</h1>
-
-<h3 align="center">💻 Computer Science Student</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AtfastrSlushyMaker&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/AtfastrSlushyMaker?label=Followers&style=social" alt="followers" />
-</p>
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AtfastrSlushyMaker&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Malek%20Bsaissa&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
 </div>
 
-<br>
-
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
-
-- 🌍 Based in **Tunisia** <img src="https://flagcdn.com/16x12/tn.png" width="16" height="12" alt="Tunisia flag">
-- 🎓 Computer engineering student specializing in Architecture IT & Cloud Computing, expected to graduate in **2027**
-- 🛠 Building skills in software development, systems architecture, and modern IT solutions
-- 🔍 Open to collaborating on real-world projects and internships
-- 📫 Reach me at: [malekbsaissa@gmail.com](mailto:malekbsaissa@gmail.com)
-
-<br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,html,css,js,symfony,git,linux,mysql,firebase&perline=7" />
-</p>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtfastrSlushyMaker&layout=donut-vertical&theme=tokyonight&hide_border=true" alt="Top Languages" height="380" />
+  
+  ### ☁️ Cloud Computing & DevOps Enthusiast | 4th Year Engineering Student
+  
+  <img src="https://komarev.com/ghpvc/?username=AtfastrSlushyMaker&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/AtfastrSlushyMaker?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+  
 </div>
 
-<br>
+---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-<p align="center">
-  <a href="https://github.com/AtfastrSlushyMaker">
-    <img src="https://github-readme-stats.vercel.app/api?username=AtfastrSlushyMaker&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" />
-  </a>
-  <a href="https://github.com/AtfastrSlushyMaker">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtfastrSlushyMaker&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
-  </a>
-</p>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Who Am I?
 
-<br>
+```yaml
+name: Malek Bsaissa
+located_in: Tunisia 🇹🇳
+current_focus: Cloud Architecture & Infrastructure
+education:
+  - Computer Engineering Student (4th/5 years)
+  - Specialization: Arctic Section - Cloud Computing @ ESPRIT
+  - Expected Graduation: 2027
+  
+current_mission: "Building private clouds, one container at a time"
+status: "Deploying dreams to production ☁️"
+```
 
+<br clear="right"/>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect With Me
+---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/malek-b-8861b229b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/AtfastrSlushyMaker" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+### 🚀 Currently Diving Into
 
-<br>
+<table>
+<tr>
+<td width="50%">
 
-## <img src="https://media.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif" width="30"> Activity Graph
+#### ☁️ **Cloud Infrastructure**
+- 🔧 Building private clouds with **OpenStack**
+- ⚡ Container orchestration with **Kubernetes**
+- 🐳 Deploying apps on self-hosted infrastructure
+- 🐧 Deep diving into **Linux** systems
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AtfastrSlushyMaker&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph">
+</td>
+<td width="50%">
+
+#### 💻 **Full Stack Development**
+- 🍃 Backend magic with **Spring Boot**
+- 🅰️ Frontend wizardry with **Angular**
+- 🔗 Connecting clouds to code
+- 🛠️ DevOps culture & practices
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🛠️ Tech Arsenal
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+#### Languages & Frameworks
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
+
+#### Cloud & DevOps
+![OpenStack](https://img.shields.io/badge/OpenStack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+#### Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AtfastrSlushyMaker&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtfastrSlushyMaker&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtfastrSlushyMaker&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtfastrSlushyMaker&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF" width="100%"/>
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AtfastrSlushyMaker&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
+</div>
+
+---
+
+### 🤝 Let's Connect
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malek-b-8861b229b/)
+  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AtfastrSlushyMaker)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malekbsaissa@gmail.com)
+  
+  **💬 Open to collaborations and interesting cloud/DevOps projects!**
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ### 💭 Random Dev Quote
+  
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=100&section=footer" />
 </div>
