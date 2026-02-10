@@ -59,15 +59,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AtfastrSlushyMaker&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&icon_color=79c0ff&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AtfastrSlushyMaker&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtfastrSlushyMaker&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtfastrSlushyMaker&layout=compact&theme=dark&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtfastrSlushyMaker&theme=transparent&hide_border=true&ring=79c0ff&fire=79c0ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtfastrSlushyMaker&theme=dark" alt="GitHub Streak" />
 </p>
 
 <br>
@@ -75,14 +75,14 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AtfastrSlushyMaker&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AtfastrSlushyMaker&theme=darkhub&no-frame=false&margin-w=4" />
 </div>
 
 <br>
 
 ## 📈 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AtfastrSlushyMaker&theme=high-contrast&bg_color=0d1117&color=79c0ff&line=79c0ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AtfastrSlushyMaker&theme=github-dark" width="100%" alt="Activity Graph">
 
 <br>
 
