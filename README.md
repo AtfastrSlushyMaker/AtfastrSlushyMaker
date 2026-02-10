@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d333b,100:22272e&height=200&section=header&text=Malek%20Bsaissa&fontSize=80&fontAlignY=35&fontColor=ffffff" />
-</div>
-
-<div align="center">
   
   ### Cloud Computing & DevOps Engineer
   **4th Year Computer Engineering Student | Arctic Section @ ESPRIT**
@@ -91,5 +87,5 @@ graduation: 2027
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d333b,100:22272e&height=100&section=footer" />
+  <sub>Open to collaborations and cloud/DevOps projects</sub>
 </div>
