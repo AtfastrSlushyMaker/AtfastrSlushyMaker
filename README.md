@@ -13,24 +13,16 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Who Am I?
 
 ```yaml
 name: Malek Bsaissa
 located_in: Tunisia 🇹🇳
-current_focus: Cloud Architecture & Infrastructure
-education:
-  - Computer Engineering Student (4th/5 years)
-  - Specialization: Arctic Section - Cloud Computing @ ESPRIT
-  - Expected Graduation: 2027
-  
-current_mission: "Building private clouds, one container at a time"
-status: "Deploying dreams to production ☁️"
+education: 4th Year Computer Engineering (Arctic Section @ ESPRIT)
+focus: Cloud Computing & Infrastructure
+graduation: 2027
+status: "Building clouds, deploying dreams ☁️"
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -78,6 +70,8 @@ status: "Deploying dreams to production ☁️"
 ![OpenStack](https://img.shields.io/badge/OpenStack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
@@ -125,16 +119,6 @@ status: "Deploying dreams to production ☁️"
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malekbsaissa@gmail.com)
   
   **💬 Open to collaborations and interesting cloud/DevOps projects!**
-  
-</div>
-
----
-
-<div align="center">
-  
-  ### 💭 Random Dev Quote
-  
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
   
 </div>
 
