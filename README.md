@@ -28,6 +28,10 @@ status: "Building clouds, deploying dreams ☁️"
 
 ---
 
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBmMWQ4ZjE4OWE0ZjE4OGE4ZjE4OGE4ZjE4OGE4ZjE4OGE4ZjE4OCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/RbDKaczqWovIugyJmW/giphy.gif" width="400" alt="Programming">
+</div>
+
 ### 🚀 Currently Diving Into
 
 <table>
