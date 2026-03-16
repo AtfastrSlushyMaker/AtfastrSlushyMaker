@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Malek+Bsaissa;4th+Year+Engineering+Student+%40+ESPRIT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Malek+Bsaissa;" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">Computer Engineering · Cloud & IT Architecture · Tunisia 🇹🇳</h3>
@@ -8,16 +8,11 @@
   <img src="https://komarev.com/ghpvc/?username=AtfastrSlushyMaker&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/AtfastrSlushyMaker?label=Followers&style=social" alt="followers" />
 </p>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AtfastrSlushyMaker&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
-</div>
-
 <br>
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
-<p align="center">
+<p>
 🎓 4th year Computer Engineering student at <strong>ESPRIT</strong> — specializing in <strong>Cloud Computing & IT Architecture</strong>, graduating 2027<br/>
 📍 Tunisia &nbsp;<img src="https://flagcdn.com/16x12/tn.png" width="16" height="12" alt="Tunisia flag" /><br/>
 🔍 Open to internships and real-world collaborations<br/>
