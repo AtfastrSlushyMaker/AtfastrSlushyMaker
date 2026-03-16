@@ -1,96 +1,79 @@
-<div align="center">
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Malek+Bsaissa;4th+Year+Engineering+Student+%40+ESPRIT" alt="Typing SVG" />
+</h1>
 
-<!-- Animated header -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=Hey%2C+I'm+Malek+%F0%9F%91%8B;4th+year+engineering+student+%40+ESPRIT;Building+clouds%2C+backends%2C+and+everything+in+between" alt="Typing SVG" />
-</a>
+<h3 align="center">Computer Engineering · Cloud & IT Architecture · Tunisia 🇹🇳</h3>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=AtfastrSlushyMaker&label=Profile+Views&color=0d1117&style=flat-square" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/AtfastrSlushyMaker?label=Followers&style=flat-square&color=0d1117" />
-
-</div>
-
----
-
-### whoami
-
-Computer Engineering student in my **4th year out of 5** at **[ESPRIT — École Supérieure Privée d'Ingénierie et de Technologies](https://esprit.tn)**, Tunisia 🇹🇳 — *Arctic Section*.
-
-I work across the full stack: Spring Boot backends, Angular frontends, Docker/Kubernetes infra, and the occasional ML experiment. Currently building [**Elif**](https://github.com/AtfastrSlushyMaker) — a pet care & adoption platform — as an integrated team project.
-
-Still a student. Always building.
-
----
-
-### 🛠 Tech I work with
-
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-
-**Frameworks**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Cloud & DevOps**
-
-![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=openstack&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-**AI / ML**
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
----
-
-### 📊 Stats
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AtfastrSlushyMaker&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/AtfastrSlushyMaker?label=Followers&style=social" alt="followers" />
+</p>
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AtfastrSlushyMaker&theme=github-dark-blue&border=30363d&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&hide_border=true" alt="GitHub Streak" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=AtfastrSlushyMaker&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
 </div>
 
----
+<br>
 
-### 📈 Activity
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AtfastrSlushyMaker&theme=github-dark&area=true&hide_border=true&custom_title=Contribution+Timeline" width="100%" alt="Activity Graph" />
+<p align="center">
+🎓 4th year Computer Engineering student at <strong>ESPRIT</strong> — specializing in <strong>Cloud Computing & IT Architecture</strong>, graduating 2027<br/>
+📍 Tunisia &nbsp;<img src="https://flagcdn.com/16x12/tn.png" width="16" height="12" alt="Tunisia flag" /><br/>
+🔍 Open to internships and real-world collaborations<br/>
+📫 <a href="mailto:malekbsaissa@gmail.com">malekbsaissa@gmail.com</a>
+</p>
 
----
+<br>
 
-### 📬 Reach me
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
 
-<a href="https://www.linkedin.com/in/malek-b-8861b229b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-&nbsp;
-<a href="https://github.com/AtfastrSlushyMaker"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-&nbsp;
-<a href="mailto:malekbsaissa@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,ts,js,php,c,spring,angular,react,fastapi,symfony,tailwind&perline=6" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,ansible,aws,openstack,mysql,firebase,git&perline=6" />
+</p>
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtfastrSlushyMaker&layout=donut-vertical&theme=tokyonight&hide_border=true" alt="Top Languages" height="380" />
+</div>
 
-<sub>Graduating 2027 · Tunisia 🇹🇳 · Open to collabs & internships</sub>
+<br>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/AtfastrSlushyMaker">
+    <img src="https://github-readme-stats.vercel.app/api?username=AtfastrSlushyMaker&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" />
+  </a>
+  <a href="https://github.com/AtfastrSlushyMaker">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtfastrSlushyMaker&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
+  </a>
+</p>
+
+<br>
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/malek-b-8861b229b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/AtfastrSlushyMaker" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:malekbsaissa@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<br>
+
+## <img src="https://media.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif" width="30"> Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AtfastrSlushyMaker&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph">
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" width="100%"/>
+</div>
