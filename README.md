@@ -16,7 +16,7 @@
 🎓 4th year Computer Engineering student at <strong>ESPRIT</strong> — specializing in <strong>Cloud Computing & IT Architecture</strong>, graduating 2027<br/>
 📍 Tunisia &nbsp;<img src="https://flagcdn.com/16x12/tn.png" width="16" height="12" alt="Tunisia flag" /><br/>
 🔍 Open to internships and real-world collaborations<br/>
-📫 <a href="mailto:dev.malekbsaissa@gmail.com">malekbsaissa@gmail.com</a>
+📫 <a href="mailto:dev.malekbsaissa@gmail.com">dev.malekbsaissa@gmail.com</a>
 </p>
 
 <br>
