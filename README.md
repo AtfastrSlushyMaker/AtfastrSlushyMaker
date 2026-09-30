@@ -1,74 +1,81 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Malek+Bsaissa;" alt="Typing SVG" />
-</h1>
+<h1 align="center">Hi, I'm Malek Bsaissa 👋</h1>
 
-<h3 align="center">Computer Engineering · Cloud & IT Architecture · Tunisia 🇹🇳</h3>
+<h3 align="center">Cloud, DevOps & Software Engineering · Tunisia 🇹🇳</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AtfastrSlushyMaker&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/AtfastrSlushyMaker?label=Followers&style=social" alt="followers" />
+  I build full-stack applications, automate cloud infrastructure, and integrate AI into real products.
 </p>
-<br>
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
+<p align="center">
+  <a href="https://malekbsaissa.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit my portfolio" /></a>
+  <a href="https://www.linkedin.com/in/malek-bsaissa-8861b229b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:dev.malekbsaissa@gmail.com"><img src="https://img.shields.io/badge/Email-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
+  <a href="https://malekbsaissa.vercel.app/Malek-Bsaissa-CV-2026-EN.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-2563EB?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Read my English CV" /></a>
+</p>
+
+## About me
+
+I'm a **fifth and final-year Computer Science engineering student at ESPRIT**, specializing in **Cloud Computing & DevOps**, with graduation expected in **2027**.
+
+I'm looking for an **end-of-study internship (PFE)** in cloud, DevOps, or software engineering. My work spans infrastructure automation, full-stack development, and AI services grounded in application data.
+
+- **Banque de Tunisie · July–August 2026:** built MEMO, a workplace platform with a FastAPI assistant, and deployed an Azure AKS demonstration environment using Terraform and GitHub Actions.
+- **Smart Skills · June–August 2025:** developed MySkills, a training management platform with role-based access, approval workflows, certificates, and reporting.
+- Currently exploring **local AI models, persistent narrative systems, and geospatial data** through Boundless and AtlasMesh.
+
+## Selected projects
+
+| Project | Focus | Technologies |
+| --- | --- | --- |
+| **[MEMO](https://github.com/AtfastrSlushyMaker/memo)** | Internship project: multi-tenant workplace operations, real-time messaging, and a [grounded AI assistant](https://github.com/AtfastrSlushyMaker/memo-agent). | Angular · Spring Boot · PostgreSQL · FastAPI · Azure AKS |
+| **[OpenStack & Kubernetes automation](https://github.com/AtfastrSlushyMaker/ansible-openstack-k8s)** | Academic team project: my Ansible and Heat automation provisions Kubernetes on OpenStack, with Prometheus/Grafana monitoring. | OpenStack · Ansible · Heat · Kubernetes · Linux |
+| **[Elif](https://github.com/AtfastrSlushyMaker/Elif)** | Team pet-care platform: I built the community module—posts, threaded discussions, moderation, and real-time chat—and a companion [community AI agent](https://github.com/AtfastrSlushyMaker/elif-community-ai-agent-nl). | Angular · Spring Boot · MySQL · WebSocket · FastAPI |
+| **[AtlasMesh](https://github.com/AtfastrSlushyMaker/AtlasMesh)** | Solo geospatial project: live public data on a 3D globe and an investigation workspace that links findings to source evidence. | React · CesiumJS · Node.js · TypeScript · WebSocket |
+| **[Boundless](https://github.com/AtfastrSlushyMaker/boundless)** | Local-first AI role-playing game with persistent world state, campaign branching, and generated character portraits. | Next.js · FastAPI · PostgreSQL · pgvector · Ollama · ComfyUI |
+| **[MySkills](https://github.com/AtfastrSlushyMaker/MySkills)** | Internship project: training management across four user roles, with registration, approvals, certificates, and reporting. | Laravel · React · MySQL |
+
+More projects, architecture details, and my contributions are on **[my portfolio](https://malekbsaissa.vercel.app/)**.
+
+## Technologies I work with
+
+**Cloud & DevOps**
 
 <p>
-🎓 4th year Computer Engineering student at <strong>ESPRIT</strong> — specializing in <strong>Cloud Computing & IT Architecture</strong>, graduating 2027<br/>
-📍 Tunisia &nbsp;<img src="https://flagcdn.com/16x12/tn.png" width="16" height="12" alt="Tunisia flag" /><br/>
-🔍 Open to internships and real-world collaborations<br/>
-📫 <a href="mailto:dev.malekbsaissa@gmail.com">dev.malekbsaissa@gmail.com</a>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,ansible,terraform,azure,linux&perline=6" alt="Docker, Kubernetes, Ansible, Terraform, Azure, Linux" />
 </p>
 
-<br>
+OpenStack · Heat · Azure AKS · GitHub Actions · Prometheus · Grafana
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
+**Languages & backend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,ts,js,php,spring,fastapi,laravel&perline=8" alt="Java, Python, TypeScript, JavaScript, PHP, Spring Boot, FastAPI, Laravel" />
+</p>
+
+**Frontend & data**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,tailwind,postgres,mysql&perline=6" alt="Angular, React, Next.js, Tailwind CSS, PostgreSQL, MySQL" />
+</p>
+
+CesiumJS · pgvector · Ollama · MLX · ComfyUI
+
+<details>
+<summary><strong>GitHub statistics</strong></summary>
+
+<br />
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,ts,js,php,c,spring,angular,react,fastapi,symfony,tailwind&perline=6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AtfastrSlushyMaker&show_icons=true&theme=tokyonight&hide_border=true" alt="Malek's GitHub statistics" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtfastrSlushyMaker&theme=tokyonight&hide_border=true" alt="Malek's contribution streak" width="49%" />
 </p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,ansible,aws,openstack,mysql,firebase,git&perline=6" />
-</p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtfastrSlushyMaker&layout=donut-vertical&theme=tokyonight&hide_border=true" alt="Top Languages" height="380" />
-</div>
-
-<br>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/AtfastrSlushyMaker">
-    <img src="https://github-readme-stats.vercel.app/api?username=AtfastrSlushyMaker&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" />
-  </a>
-  <a href="https://github.com/AtfastrSlushyMaker">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtfastrSlushyMaker&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtfastrSlushyMaker&layout=compact&theme=tokyonight&hide_border=true" alt="Language distribution across my public repositories" />
 </p>
 
-<br>
+</details>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect With Me
+---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/malek-b-8861b229b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/AtfastrSlushyMaker" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:malekbsaissa@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<br>
-
-## <img src="https://media.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif" width="30"> Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AtfastrSlushyMaker&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph">
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" width="100%"/>
-</div>
+Interested in working together? **[Email me](mailto:dev.malekbsaissa@gmail.com)** or **[connect on LinkedIn](https://www.linkedin.com/in/malek-bsaissa-8861b229b/)**.
