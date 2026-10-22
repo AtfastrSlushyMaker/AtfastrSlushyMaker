@@ -1,0 +1,39 @@
+name: Repo stats
+
+# Sums stars and forks across my own (non-fork) repos and writes them as
+# shields.io endpoint JSON, used by the badges in README.md.
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Count stars and forks
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          counts=$(gh api --paginate "users/${{ github.repository_owner }}/repos?per_page=100&type=owner" \
+            --jq '.[] | select(.fork | not) | "\(.stargazers_count) \(.forks_count)"')
+          stars=$(echo "$counts" | awk '{s+=$1} END {print s+0}')
+          forks=$(echo "$counts" | awk '{s+=$2} END {print s+0}')
+          badge() {
+            printf '{"schemaVersion":1,"label":"%s","message":"%s","color":"%s","namedLogo":"%s","logoColor":"white","cacheSeconds":3600}\n' "$1" "$2" "$3" "$4"
+          }
+          mkdir -p stats
+          badge "Stars" "$stars" "ceb011" "github" > stats/stars.json
+          badge "Forks" "$forks" "3b82f6" "git" > stats/forks.json
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add stats
+          git diff --cached --quiet || { git commit -m "Update repo stats" && git push; }
