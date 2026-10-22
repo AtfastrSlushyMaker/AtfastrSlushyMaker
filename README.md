@@ -1,38 +1,51 @@
-# Malek Bsaissa
+<h1 align="center">Hi, I'm Malek Bsaissa</h1>
+<h3 align="center">Cloud & DevOps engineering student at ESPRIT</h3>
 
-**Cloud & DevOps engineer in the making** · ESPRIT '27 · Tunisia 🇹🇳
+<p align="center">Want to work together? Reach me at <a href="mailto:dev.malekbsaissa@gmail.com">dev.malekbsaissa@gmail.com</a></p>
 
-I like owning a project end to end: the app, the cluster it runs on, and the AI that makes it interesting.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=flat&logo=vercel&logoColor=white)](https://malekbsaissa.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-334155?style=flat&logo=gmail&logoColor=white)](mailto:dev.malekbsaissa@gmail.com)
-[![Stars](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FAtfastrSlushyMaker%2FAtfastrSlushyMaker%2Fmain%2Fstats%2Fstars.json)](https://github.com/AtfastrSlushyMaker?tab=repositories&sort=stargazers)
-[![Forks](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FAtfastrSlushyMaker%2FAtfastrSlushyMaker%2Fmain%2Fstats%2Fforks.json)](https://github.com/AtfastrSlushyMaker?tab=repositories)
-
-## On my desk right now
-
-**[Boundless](https://github.com/AtfastrSlushyMaker/boundless)** is a text RPG run by an AI Game Master. Write a premise, step into any role, and the world keeps track of everything you've done. It's local-first: Ollama, MLX or llama.cpp for the story, pgvector for long-term memory, ComfyUI for character portraits.
-
-**[AtlasMesh](https://github.com/AtfastrSlushyMaker/AtlasMesh)** puts planes, ships, satellites and world events on one 3D globe in real time, then lets you pin findings to the sources behind them. [See it live →](https://atlasmesh.onrender.com)
-
-**[Homelab Hub](https://github.com/AtfastrSlushyMaker/homelab-hub)** is the control panel I wanted for my own server: open it on your phone and it already knows what's running, because it reads Docker, systemd and the hardware directly. One Go binary, ~30 MB of RAM.
-
-## Side quests
-
-| | |
-| --- | --- |
-| 📺 **[TVDeck](https://github.com/AtfastrSlushyMaker/tvdeck)** | My Samsung TV's home screen was full of ads, so I wrote a new one. Installs through TizenBrew, no developer certificate needed. |
-| 💡 **[Ambient LED Control](https://github.com/AtfastrSlushyMaker/Open-Ambient-LED-Control)** | Turns two cheap Bluetooth lamps into bias lighting that follows the edges of my monitor, or pulses with music. |
-| ☁️ **[OpenStack → Kubernetes](https://github.com/AtfastrSlushyMaker/ansible-openstack-k8s)** | Ansible + Heat that takes a bare OpenStack project to a monitored Kubernetes cluster serving models with KServe. |
-| ⚽ **[The 12th Player](https://github.com/AtfastrSlushyMaker/the-12th-player)** | Football analytics with ML: Premier League table predictions, match outcomes, and scouting across Europe's top 5 leagues. [Live →](https://the-12th-player-app.onrender.com) |
-
-## Toolbox
-
-[![Tech I use](https://skillicons.dev/icons?i=kubernetes,docker,ansible,terraform,azure,githubactions,prometheus,grafana,linux,java,spring,python,fastapi,go,ts,angular,react,nextjs,postgres&perline=10)](https://malekbsaissa.vercel.app/)
-
-## By the numbers
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=AtfastrSlushyMaker&custom_title=Malek%27s%20GitHub&show_icons=true&show=prs_merged&hide=contribs&rank_icon=percentile&bg_color=00000000&title_color=3b82f6&icon_color=3b82f6&text_color=7d8590&ring_color=3b82f6&hide_border=true&border_radius=12" alt="Malek's GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtfastrSlushyMaker&layout=compact&langs_count=8&hide=html,css,scss,twig,jinja&custom_title=Most%20used%20languages&bg_color=00000000&title_color=3b82f6&text_color=7d8590&hide_border=true&border_radius=12" alt="Most used languages" height="170" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AtfastrSlushyMaker&label=Profile%20Views&color=2563eb&style=flat" alt="Profile views" />
+  <a href="https://github.com/AtfastrSlushyMaker?tab=repositories&sort=stargazers"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FAtfastrSlushyMaker%2FAtfastrSlushyMaker%2Fmain%2Fstats%2Fstars.json" alt="Total stars" /></a>
+  <a href="https://github.com/AtfastrSlushyMaker?tab=repositories"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FAtfastrSlushyMaker%2FAtfastrSlushyMaker%2Fmain%2Fstats%2Fforks.json" alt="Total forks" /></a>
+  <a href="https://malekbsaissa.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-malekbsaissa.vercel.app-2563EB?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=AtfastrSlushyMaker&custom_title=Malek%27s%20GitHub&show_icons=true&show=prs_merged&hide=contribs&rank_icon=percentile&bg_color=00000000&title_color=3b82f6&icon_color=3b82f6&text_color=7d8590&ring_color=3b82f6&hide_border=true&border_radius=12" alt="GitHub stats" height="165" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtfastrSlushyMaker&layout=compact&langs_count=8&hide=html,css,scss,twig,jinja&custom_title=Most%20used%20languages&bg_color=00000000&title_color=3b82f6&text_color=7d8590&hide_border=true&border_radius=12" alt="Top languages" height="165" />
+    </td>
+  </tr>
+</table>
+
+## 🚀 What I'm building
+
+- **[Boundless](https://github.com/AtfastrSlushyMaker/boundless):** a local-first text RPG with an AI Game Master. You describe any world in plain language, play anyone in it, and the world remembers what you did. Runs fully on local models (Ollama, MLX, llama.cpp) with pgvector memory and generated character portraits.
+- **[AtlasMesh](https://github.com/AtfastrSlushyMaker/AtlasMesh):** live aircraft, ships, satellites and world events streamed onto a 3D Cesium globe, with an investigation workspace that ties every finding back to its source.
+  - 🌍 Try it: [atlasmesh.onrender.com](https://atlasmesh.onrender.com)
+- **[Homelab Hub](https://github.com/AtfastrSlushyMaker/homelab-hub):** a phone-first dashboard and app store for my home server. It discovers what's already running (Docker, systemd, the reverse proxy, the hardware) instead of making you configure links by hand, and ships as a single Go binary.
+
+## 🛠️ Stuff I enjoyed making
+
+- **[TVDeck](https://github.com/AtfastrSlushyMaker/tvdeck):** got tired of ads on my Samsung TV's home screen, so I replaced it. A fast, ad-free launcher for Tizen TVs that runs as a TizenBrew module, no Samsung certificate needed.
+- **[Open Ambient LED Control](https://github.com/AtfastrSlushyMaker/Open-Ambient-LED-Control):** a desktop lighting studio for cheap Bluetooth lamps, with an ambient mode that samples the edges of my monitor and matches the lights to what's on screen, plus music-reactive effects.
+- **[OpenStack + Kubernetes automation](https://github.com/AtfastrSlushyMaker/ansible-openstack-k8s):** Ansible and Heat playbooks that stand up a Kubernetes cluster on OpenStack with KServe and Prometheus/Grafana monitoring, from zero to serving models.
+- **[The 12th Player](https://github.com/AtfastrSlushyMaker/the-12th-player):** ML-powered football analytics that predicts Premier League standings and match outcomes and scouts rising talent across Europe's top 5 leagues.
+  - ⚽ Try it: [the-12th-player-app.onrender.com](https://the-12th-player-app.onrender.com)
+
+## 🧰 Tech I use
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kubernetes,docker,ansible,terraform,azure,githubactions,prometheus,grafana,linux,java,spring,python,fastapi,go,ts,angular,react,nextjs,postgres&perline=10" alt="Kubernetes, Docker, Ansible, Terraform, Azure, GitHub Actions, Prometheus, Grafana, Linux, Java, Spring Boot, Python, FastAPI, Go, TypeScript, Angular, React, Next.js, PostgreSQL" />
+</p>
+
+<details>
+  <summary>About</summary>
+  <br />
+
+  Final-year Computer Science engineering student at ESPRIT, specializing in Cloud Computing & DevOps (graduating 2027). I build full-stack applications, automate the infrastructure they run on, and integrate AI into real products, lately with a focus on local models, persistent narrative systems and geospatial data.
+
+</details>
