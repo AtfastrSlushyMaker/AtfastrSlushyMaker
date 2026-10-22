@@ -12,7 +12,6 @@
 ## About me
 
 - 🎓 Final-year Computer Science engineering student at ESPRIT, specializing in **Cloud Computing & DevOps** (graduating 2027)
-- ☁️ Most at home with **Kubernetes, Ansible and Terraform** on the infra side, and **Spring Boot, FastAPI and Angular/React** on the app side
 - 🔭 Currently building **[Boundless](https://github.com/AtfastrSlushyMaker/boundless)**, a local-first AI role-playing game, and **[Homelab Hub](https://github.com/AtfastrSlushyMaker/homelab-hub)**, a control panel for my home server
 - 🧪 Exploring local LLMs, self-hosting and geospatial data
 
