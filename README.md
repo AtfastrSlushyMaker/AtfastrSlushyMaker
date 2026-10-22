@@ -30,8 +30,7 @@
 <table>
   <tr>
     <td><b>Cloud & DevOps</b></td>
-    <td><img src="https://skillicons.dev/icons?i=kubernetes,docker,ansible,terraform,aws,githubactions,prometheus,grafana,nginx,linux" height="36" alt="Kubernetes, Docker, Ansible, Terraform, AWS, GitHub Actions, Prometheus, Grafana, Nginx, Linux" /><br />
-      <img src="https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=openstack&logoColor=white" alt="OpenStack" />
+    <td><img src="https://skillicons.dev/icons?i=kubernetes,docker,ansible,terraform,aws,githubactions,prometheus,grafana,nginx,linux" height="36" alt="Kubernetes, Docker, Ansible, Terraform, AWS, GitHub Actions, Prometheus, Grafana, Nginx, Linux" /> <img src="assets/openstack-tile.svg" height="36" alt="OpenStack" /><br />
       <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose" />
       <img src="https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white" alt="Tailscale" /></td>
   </tr>
@@ -50,11 +49,7 @@
   </tr>
   <tr>
     <td><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=angular,react,nextjs,vite,tailwind,bootstrap" height="36" alt="Angular, React, Next.js, Vite, Tailwind CSS, Bootstrap" /><br />
-      <img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white" alt="RxJS" />
-      <img src="https://img.shields.io/badge/CesiumJS-6CADDF?style=flat-square&logo=cesium&logoColor=white" alt="CesiumJS" />
-      <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" alt="Leaflet" />
-      <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" /></td>
+    <td><img src="https://skillicons.dev/icons?i=angular,react,nextjs,vite,tailwind,bootstrap" height="36" alt="Angular, React, Next.js, Vite, Tailwind CSS, Bootstrap" /></td>
   </tr>
   <tr>
     <td><b>Data & AI</b></td>
