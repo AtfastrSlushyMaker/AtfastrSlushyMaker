@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Malek Bsaissa</h1>
-<h3 align="center">Cloud & DevOps engineering student at ESPRIT</h3>
+<h3 align="center">Cloud engineering student at ESPRIT</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AtfastrSlushyMaker&label=Profile%20Views&color=2563eb&style=flat" alt="Profile views" />
