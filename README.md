@@ -11,7 +11,7 @@
 
 - 🎓 Final-year Computer Science engineering student at ESPRIT, specializing in **Cloud Computing** (graduating 2027)
 - 🔭 Currently building **[Boundless](https://github.com/AtfastrSlushyMaker/boundless)**, a local-first AI role-playing game, and **[Homelab Hub](https://github.com/AtfastrSlushyMaker/homelab-hub)**, a control panel for my home server
-- 🧪 Exploring local LLMs, self-hosting and geospatial data
+- 🧪 Exploring local LLMs, self-hosting
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtfastrSlushyMaker&theme=transparent" alt="Profile details" width="100%" />
