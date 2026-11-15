@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Malek Bsaissa</h1>
 <h3 align="center">Cloud & DevOps engineering student at ESPRIT</h3>
 
-<p align="center">I automate the infrastructure and build the apps that run on it.</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AtfastrSlushyMaker&label=Profile%20Views&color=2563eb&style=flat" alt="Profile views" />
   <a href="https://github.com/AtfastrSlushyMaker?tab=repositories&sort=stargazers"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FAtfastrSlushyMaker%2FAtfastrSlushyMaker%2Fmain%2Fstats%2Fstars.json" alt="Total stars" /></a>
